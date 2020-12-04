@@ -1,0 +1,29 @@
+.massage-wrapper{
+border: 1px dotted #FF9090;
+padding:20px;
+height:800px;
+overflow: auto;
+}
+.massage{
+    padding:10px;
+    border: 1px solid #FF0000;
+}
+.massage-author{
+    padding:10px;
+    margin:10px;
+    font-weight:bold;
+    font-size:1.5rem;
+}
+.send-massage-input{
+   resize:none;
+    border: 1px solid #FF0000;
+}
+.send-massage-wrapper{
+padding:20px;
+    border: 1px dotted #FF9090;
+
+}
+.container{
+    width:90%;
+
+}
